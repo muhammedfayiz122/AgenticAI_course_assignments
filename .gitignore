@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+#uwanted folders
+data/
+
 #Useless Codes
 run.bat
 
