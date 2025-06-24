@@ -35,4 +35,4 @@ streamlit run app.py
 
 
 ## 📃 License
-[MIT](~/LICENSE)
+[MIT](../LICENSE)
