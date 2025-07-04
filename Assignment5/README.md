@@ -1,4 +1,4 @@
 # Workflow
-![workflow](data/workflow.pngworkflow.png)
+![workflow](data/workflow.png)
 
 on progress
