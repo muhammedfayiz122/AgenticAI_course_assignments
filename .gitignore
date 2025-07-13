@@ -201,3 +201,5 @@ cython_debug/
 
 #  ignore ffolders
 common-venv
+
+tally_project
