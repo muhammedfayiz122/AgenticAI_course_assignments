@@ -1,3 +1,5 @@
 autogen_ext
 autogen_core
 autogen_agentchat 
+ollama
+tiktoken

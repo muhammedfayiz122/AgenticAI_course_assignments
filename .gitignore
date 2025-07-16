@@ -203,3 +203,4 @@ cython_debug/
 common-venv
 
 tally_project
+g.bat
